@@ -235,9 +235,56 @@
 		"BLACK_460": "#202020"
     },
     "plus": {
-       "version": "0",
-       "iconpack": "MaterialTwoTone",
-       "mentionLineColor": "#0080ff",
-       "customOverlays": true,
-       "icons":{
-          "ic_radio_circle_checked": "#
+        "version": "0",
+        "iconpack": "MaterialTwoTone",
+        "mentionLineColor": "#adc5fa",
+        "customOverlays": true,
+        "icons":{
+           "ic_radio_circle_checked": "#adc5fa",
+           "ic_radio_circle_checked__overlay": "#434D62",
+           "ic_radio_square_24px": "#adc5fa",
+           "ic_radio_square_checked_24px": "#adc5fa",
+           "ic_radio_square_checked_24px__overlay": "#434D62",
+           "ic_rich_presence_dark_12px": "#adc5fa",
+           "ic_selection_checked_24px": "#adc5fa",
+           "ic_selection_checked_24px__overlay": "#434D62",
+           "ic_star_filled": "#adc5fa",
+           "img_guild_folder": "#adc5fa",
+           "StatusMobileOnline": "#adc5fa",
+           "StatusOnline": "#adc5fa",
+           "StatusIdle": "#adc5fa",
+           "StatusDND": "#adc5fa",
+           "StatusOffline": "#434D62",
+           "StatusStreaming": "#adc5fa",
+           "friends_toast_icon": "#adc5fa",
+           "toast_copy_link": "#adc5fa",
+           "toast_copy_message": "#adc5fa",
+           "toast_image_saved": "#adc5fa",
+           "toast_invite_sent": "#adc5fa",
+           "ic_crown_16px": "#adc5fa",
+           "member_list_badge_16px": "#adc5fa",
+           "ic_nitro_rep_24px": "#adc5fa",
+           "ShopIcon": "#adc5fa",
+           "PencilIcon": "#adc5fa",
+           "SettingsIcon": "#adc5fa",
+           "MagnifyingGlassIcon": "#adc5fa",
+           "search": "#adc5fa",
+           "MoreHorizontalIcon": "#adc5fa",
+           "UserCheckIcon": "#adc5fa",
+           "ic_send": "#adc5fa",
+           "NitroWheelIcon": "#adc5fa"
+             },
+       "icons_no":{
+           "img_account_sync_facebook_light_and_dark": "#adc5fa",
+           "img_account_sync_github_white": "#adc5fa",
+           "img_account_sync_reddit_light_and_dark": "#adc5fa",
+           "img_account_sync_spotify_light_and_dark": "#adc5fa",
+           "img_account_sync_x_white": "#adc5fa",
+           "img_account_sync_x_dark": "#adc5fa",
+           "img_account_sync_xbox_white": "#adc5fa",
+           "img_account_sync_youtube_light_and_dark": "#adc5fa"
+             }
+     },
+     "spec": 2
+     }
+    
