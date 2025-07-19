@@ -1,0 +1,41 @@
+{
+    "name": "PlayStation 30th Anniversary",
+    "description": "A theme inspired by the 30th anniversary of the original PlayStation, featuring its iconic gray and colorful button accents.",
+    "authors": [
+        {
+            "name": "Gemini"
+        }
+    ],
+    "semanticColors": {
+        "BACKGROUND": [
+            "#CED2D7"
+        ],
+        "PRIMARY_TEXT": [
+            "#2E2F34"
+        ],
+        "ACCENT_BLUE": [
+            "#003087"
+        ],
+        "ACCENT_GREEN": [
+            "#00A344"
+        ],
+        "ACCENT_YELLOW": [
+            "#FBC02D"
+        ],
+        "ACCENT_RED": [
+            "#E52421"
+        ]
+    },
+    "rawColors": {
+        "playstationGray": "#CED2D7",
+        "playstationDarkGray": "#2E2F34",
+        "playstationBlue": "#003087",
+        "playstationGreen": "#00A344",
+        "playstationYellow": "#FBC02D",
+        "playstationRed": "#E52421",
+        "white": "#FFFFFF",
+        "black": "#000000"
+    },
+    "spec": 2
+}
+
